@@ -1,0 +1,535 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+body{
+    font-family: Arial narrow;
+
+}
+
+header{
+    background-color: black;
+}
+
+
+
+.logo{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 30px;
+
+}
+.menu{
+    text-align: right;
+    
+    
+}
+
+.header_top i{
+    background-color: #ffda00;
+    margin-left: ;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+    
+    
+}
+
+.header_top i:hover{
+    background-color: white;
+
+}
+
+.header_bottom h1{
+    color: #ffda00;
+    font-size: 110px;
+    font-weight: lighter;
+    letter-spacing: 15px;
+    margin-top: 15%;
+
+
+}
+.header_bottom p{
+    color: white;
+    width: 62%;
+    font-weight: lighter;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 20px;
+}
+
+.header_bottom a{
+    color: white;
+   font-size: 12px;
+    padding: 12px 35px;
+    display: inline-block;
+    border: 1px solid #ffda00;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 15%;
+}
+
+.header_bottom a:hover{
+    background-color: #ffda00;
+    color: black;
+}
+
+.quote{
+    background-color: #ffda00;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.quote p{
+    width: 70%;
+    margin: auto;
+    font-weight: lighter;
+    
+}
+
+.box1{
+    padding-top: 5%;
+    overflow: hidden;
+    
+}
+
+
+.design, .coding, .apps{
+    float: left;
+    width: 30%;
+    margin-left: 3.33%;
+    
+    
+}
+
+.pen, .plug, .monitor{
+    background-color: #ffda00;
+    width: 30px;
+    height: 30px;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+
+    
+}
+.box1 h2{
+    color: #ffda00;
+    font-weight: lighter;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+
+}
+.box1 p{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+.launch{
+    text-align: center;
+}
+.box1 a{
+    color: black;
+    font-size: 12px;
+     padding: 12px 45px;
+     display: inline-block;
+     border: 1px solid #ffda00;
+     border-radius: 30px;
+     margin-top: 20px;
+     margin-bottom: 10%;
+     position: relative;
+     right: 20px;
+     top: 20px;
+}
+.box1 a:hover{
+    background-color: #ffda00;
+}
+
+.stats{
+    
+    background-color: black;
+    overflow: hidden;
+}
+
+.stat{
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding-top: 5%;
+    text-align: center;
+    padding-bottom: 5%;
+    
+
+}
+
+.stat img{
+    width: 25px;
+    height: 25px;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.stats h2{
+    color: white;
+    font-size: 40px;
+    font-weight: lighter;
+    margin-bottom: 15px;
+
+}
+
+.stats span{
+    color: #ffda00;
+}
+
+.works{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.works h2{
+    color: #ffda00;
+    font-size: 30px;
+    font-weight: lighter;
+    
+    margin-bottom: 20px;
+}
+
+.works p{
+    font-size: 14px;
+    width: 70%;
+    margin-bottom: 70px;
+}
+.works ul{
+    list-style: none;
+    text-align: center;
+    
+}
+
+.works li{
+    display: inline-block;
+}
+
+.works a{
+    display: inline-block;
+    color: black;
+    border: 1.5px solid #ffda00;
+    padding: 5px 20px;
+    font-size: 14px;
+}
+.works a:hover{
+    background-color: #ffda00;
+}
+
+.extra{
+    background-color: #ffda00;
+}
+
+.extra:hover{
+    border-radius: 10px;
+    color: white;
+}
+
+.bbb{
+    background-color: black;
+}
+
+.container1{
+    width: 80%;
+    margin-left: 20%;
+
+}
+
+
+.write{
+    background-color: #ffda00;
+    width: 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.under{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.write h2{
+    font-weight: lighter;
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+
+.write p{
+    color: white;
+    font-size: 14px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.write a{
+    color: black;
+    border: 1px solid white;
+    padding: 5px 20px;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.write a:hover{
+    background-color: black;
+    border: 1px solid  white;
+    color: white;
+    
+}
+
+.three img{
+    width: 100%;
+}
+
+
+.just{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.just a{
+    color: black;
+    font-size: 11px;
+    border: 1px solid #ffda00;
+    padding: 10px 50px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.just a:hover{
+    background-color: #ffda00;
+}
+
+
+.clients{
+    background-color: black;
+
+}
+
+.client{
+    padding-top: 10%;
+}
+
+.client h2{
+    font-size: 30px;
+    color: #ffda00;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+.client p{
+    font-size: 14px;
+    line-height: 20px;
+    width: 80%;
+    color: white;
+}
+
+.fourlogo{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    
+   
+    
+    
+
+}
+
+.one1{
+
+   margin-right: 70px;
+    
+}
+.fourlogo a{
+    
+}
+
+.fourlogo img{
+    width: 10%;
+    margin-left: 10%;
+    
+}
+
+.contact {
+    padding-top: 5%;
+    
+
+}
+
+.contact h2{
+    font-size: 30px;
+    color: #ffda00;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+.contact p{
+    font-size: 14px;
+    line-height: 20px;
+    width: 80%;
+    margin-bottom: 70px;
+}
+
+.form{
+    width: 80%;
+    margin: 0 auto;
+
+    
+}
+
+.form .text1, .email{
+    padding: 5px 108px 5px 5px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+
+}
+.email{
+    margin-left: 10px;
+    
+
+}
+
+
+
+.sub{
+    padding: 5px 385px 5px 5px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.message{
+    padding-left: 6px;
+    border: 1px solid black;
+    margin-bottom: 30px;
+
+}
+.send{
+    text-align: center;
+    width: 50%;
+    margin: 0 33% 10% 17%;
+    
+}
+
+.send input{
+    padding: 10px 70px;
+    font-size: 11px;
+    border: 1px solid #ffda00;
+    border-radius: 15px;
+    color: #181a1f;
+}
+
+.send input:hover{
+    background-color: #ffda00;
+}
+
+.contact2{
+    background-color: #ffda00;
+    overflow: hidden;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.info img{
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    padding: 12px;
+    position: relative;
+    top: 15px;
+}
+
+.info{
+    float: left;
+    width: 30%;
+    margin-left: 3.33%;
+}
+.info p{
+    
+    width: 60%;
+    display: inline-block;
+    margin-left: 10px;
+}
+.info a{
+    color: black;
+    margin-left: 10px;
+}
+
+.info a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.footer{
+    background-color: black;
+}
+
+.social1{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.social1 p{
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.social1 p span{
+    color: #ffda00;
+}
+
+.social2{
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 10%;
+
+}
+.social2 i{
+    color: white;
+    margin-left: 20px;
+
+}
+
+
+.margin-left: 20px;
+
+
+.owl-dots{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
